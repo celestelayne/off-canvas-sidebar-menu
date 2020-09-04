@@ -28,7 +28,16 @@ h2 {
 }
 
 h1 {
+  font-Family: 'Roboto', Sans-Serif;
+  font-Size: 48px;
   margin: 2.5em 0 1em;
+}
+
+p {
+  font-Family: 'Lora', Serif;
+  font-Size: 14px;
+  line-height: 1.68em;
+  margin-bottom: 2.2em;
 }
 
 .hamburger {
